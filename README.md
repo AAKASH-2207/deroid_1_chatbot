@@ -1,4 +1,4 @@
-# Private AI , No-API, working directly on the GPu of the system 
+# Private AI , No-API, working directly on the GPU of the system 
 ## Name: Deroid 1
 ## Creator: Aakash Sharma
 ## Features:
